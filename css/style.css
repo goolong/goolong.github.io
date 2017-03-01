@@ -78,7 +78,7 @@ a:hover {
 }
 #header {
   height: 45px;
-  background: #bb3131;
+  background: #1e90ff;
   background: -webkit-linear-gradient(top, #c63a3a 0, #c43837 29%, #c13635 55%, #bd3232 55%, #ba3030 77%, #b32b2b 100%);
   background: -moz-linear-gradient(top, #c63a3a 0, #c43837 29%, #c13635 55%, #bd3232 55%, #ba3030 77%, #b32b2b 100%);
   background: -o-linear-gradient(top, #c63a3a 0, #c43837 29%, #c13635 55%, #bd3232 55%, #ba3030 77%, #b32b2b 100%);
